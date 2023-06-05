@@ -1,0 +1,26 @@
+.navigation {
+    background-color: #d4fcef;
+    padding: 5px;
+    border-radius: 10px;
+    border: 3px solid #108d7a;
+  }
+
+  .navigation__listItem {
+    list-style: none;
+    font-size: 20px;
+    padding: 4px;
+  }
+  
+  .navigation__link {
+    color: #2da5ef;
+    text-decoration: none;
+  }
+  
+  .navigation__link:hover {
+    color: gray;
+    border-bottom: 1px solid;
+  }
+  
+  .navigation__link:active {
+    color: blue;
+  }

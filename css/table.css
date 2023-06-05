@@ -1,0 +1,28 @@
+.table {
+    width: 800px;
+    height: 600px;
+    border: 2px darkslateblue;
+    border-radius: 40px/20px;
+    margin: 2px;
+    padding: 4px;
+    outline: 5px;
+    box-shadow: 10px -5px 21px 2px #2da5ef;
+    background-color: rgba(43, 188, 103, 0.25);
+    line-height: 1.3;
+    border-collapse: collapse;
+  }
+  
+  .table__Cell {
+    border: 2px solid darkcyan;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  
+  .table__Cell--Header {
+    background-color: lemonchiffon;
+  }
+  
+  .table__Row:nth-child(even) {
+    background: burlywood;
+  }

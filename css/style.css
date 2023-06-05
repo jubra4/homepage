@@ -1,0 +1,37 @@
+.html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  ::after,
+  ::before {
+    box-sizing: inherit;
+  }
+  
+  .page {
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  .body {
+    background-color: #f4fcd4;
+    margin: 0;
+    font-family: "Ubuntu", sans-serif;
+  }
+
+  .dark {
+    color: #2da5ef;
+    background-color: #222;
+  }
+
+  .caption {
+    color: #000;
+    background-color: aqua;
+  }
+  
+  .footer {
+    color: #eee;
+    background-color: #000;
+    padding: 3px;
+    border-radius: 10px;
+  }
