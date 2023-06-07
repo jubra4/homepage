@@ -1,6 +1,6 @@
 # Julia Brzostek - my page
 
-![Julia Brzostek](https://github.com/jubra4/homepage/blob/main/image/T01RG0VJ7FF-U04AR9EKDN3-97e64d41071f-512.jpg)
+![Julia Brzostek](https://github.com/jubra4/homepage/blob/7f360f750361bdd5578e082a18583b621d68afbc/image/T01RG0VJ7FF-U04AR9EKDN3-97e64d41071f-512.png)
 
 ## discription
 
